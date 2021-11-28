@@ -53,7 +53,7 @@ let torontoData = "https://raw.githubusercontent.com/Zohairk4help/Mapping_Earthq
 
 // Create a style for the lines.
 let myStyle = {
-  color: "#ff7538",
+  color: "#ffffa1",
   weight: 2
 }
 
